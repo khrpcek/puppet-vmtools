@@ -5,7 +5,7 @@ class vmwaretools {
         include vmwaretools::install
       }
       else {
-        include vmwaretools::unistall
+        include vmwaretools::uninstall
       }
     }
   }
